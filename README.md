@@ -11,3 +11,4 @@ Koreader: kinda cool but it's optimized for eink, but the interface but find the
 aio-launcher: my fav launcher. The reason I changed the onyx launcher, because it's ugly (im not kidding )
 
 ابجد: it's cool but u must subscribe to read some books, There is all kinds of books and also translated 
+Syncthing: to sync my files across my laptops and iPad, Its pretty good tho
